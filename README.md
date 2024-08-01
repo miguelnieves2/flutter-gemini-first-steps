@@ -41,7 +41,7 @@ gemini_first_steps/
 ## Prerequisites
 
 - Flutter SDK
-- Dart SDK
+- Dart 3.2.0+
 - An API key from Google AI Studio
 
 ## Installation
