@@ -1,5 +1,4 @@
-# Gemini Flutter Chat App
-#### gemini_first_steps
+Getting Started with Flutter Gemini API SDK
 
 This project is a basic chat application built with Flutter, leveraging the Gemini API through its Flutter SDK. The app maintains chat context within a session but does not currently store conversations locally or in the cloud.
 
